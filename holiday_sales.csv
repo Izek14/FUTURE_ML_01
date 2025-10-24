@@ -1,0 +1,453 @@
+Order Date,Sales,holiday
+2014-11-11,665.88,Veterans Day
+2017-11-23,74.112,Thanksgiving Day
+2017-11-23,27.992,Thanksgiving Day
+2017-11-23,3.304,Thanksgiving Day
+2017-12-25,41.96,Christmas Day
+2016-09-05,82.8,Labor Day
+2015-09-07,671.93,Labor Day
+2015-10-12,899.136,Columbus Day
+2015-10-12,71.76,Columbus Day
+2015-10-12,51.84,Columbus Day
+2015-10-12,626.352,Columbus Day
+2015-10-12,19.9,Columbus Day
+2017-05-29,25.92,Memorial Day
+2017-05-29,53.424,Memorial Day
+2017-11-23,28.4,Thanksgiving Day
+2017-11-23,287.92,Thanksgiving Day
+2016-09-05,12.22,Labor Day
+2016-09-05,194.94,Labor Day
+2016-09-05,70.95,Labor Day
+2016-09-05,91.36,Labor Day
+2016-09-05,242.94,Labor Day
+2016-09-05,22.05,Labor Day
+2016-05-30,22.62,Memorial Day
+2016-05-30,14.952,Memorial Day
+2016-05-30,801.568,Memorial Day
+2016-05-30,2.376,Memorial Day
+2016-05-30,32.792,Memorial Day
+2015-07-03,70.98,Independence Day (observed)
+2015-07-03,294.93,Independence Day (observed)
+2017-12-25,191.984,Christmas Day
+2017-02-20,22.23,Washington's Birthday
+2017-02-20,215.968,Washington's Birthday
+2014-10-13,11.52,Columbus Day
+2014-10-13,1298.55,Columbus Day
+2014-10-13,213.92,Columbus Day
+2014-10-13,25.78,Columbus Day
+2017-01-01,48.896,New Year's Day
+2017-11-11,10.44,Veterans Day
+2017-11-11,18.336,Veterans Day
+2016-05-30,3.282,Memorial Day
+2014-11-11,3.392,Veterans Day
+2014-11-11,559.984,Veterans Day
+2014-11-11,603.92,Veterans Day
+2015-07-03,168.464,Independence Day (observed)
+2015-07-03,6.72,Independence Day (observed)
+2015-07-03,282.888,Independence Day (observed)
+2016-11-24,4.416,Thanksgiving Day
+2014-01-20,699.93,Martin Luther King Jr. Day
+2014-01-20,22.96,Martin Luther King Jr. Day
+2014-01-20,38.6,Martin Luther King Jr. Day
+2014-01-20,6.63,Martin Luther King Jr. Day
+2014-01-20,23.34,Martin Luther King Jr. Day
+2014-01-20,1067.94,Martin Luther King Jr. Day
+2014-09-01,53.94,Labor Day
+2016-05-30,839.988,Memorial Day
+2016-02-15,398.352,Washington's Birthday
+2016-02-15,8.72,Washington's Birthday
+2015-07-04,1099.96,Independence Day
+2016-09-05,278.4,Labor Day
+2015-07-04,15.48,Independence Day
+2015-05-25,845.728,Memorial Day
+2017-10-09,10.816,Columbus Day
+2017-01-02,695.7,New Year's Day (observed)
+2017-01-02,15.66,New Year's Day (observed)
+2017-01-02,28.854,New Year's Day (observed)
+2017-11-10,38.388,Veterans Day (observed)
+2017-11-10,95.994,Veterans Day (observed)
+2017-11-10,239.952,Veterans Day (observed)
+2017-11-10,201.584,Veterans Day (observed)
+2017-11-10,899.136,Veterans Day (observed)
+2017-10-09,652.45,Columbus Day
+2017-10-09,66.645,Columbus Day
+2016-11-24,17.216,Thanksgiving Day
+2016-11-24,11.56,Thanksgiving Day
+2016-11-24,88.4,Thanksgiving Day
+2016-11-24,6.48,Thanksgiving Day
+2016-12-26,33.9,Christmas Day (observed)
+2014-11-27,3.76,Thanksgiving Day
+2017-09-04,10.192,Labor Day
+2017-09-04,16.784,Labor Day
+2017-09-04,13.12,Labor Day
+2016-11-24,33.52,Thanksgiving Day
+2016-11-24,9.94,Thanksgiving Day
+2017-09-04,91.96,Labor Day
+2014-05-26,290.666,Memorial Day
+2014-05-26,201.584,Memorial Day
+2014-05-26,83.984,Memorial Day
+2016-11-24,41.92,Thanksgiving Day
+2016-11-24,297.576,Thanksgiving Day
+2016-11-24,4.344,Thanksgiving Day
+2016-11-24,94.992,Thanksgiving Day
+2016-11-24,74.352,Thanksgiving Day
+2016-11-24,14.04,Thanksgiving Day
+2016-11-11,59.97,Veterans Day
+2016-11-11,83.36,Veterans Day
+2016-09-05,107.94,Labor Day
+2016-12-25,2575.944,Christmas Day
+2016-12-25,45.36,Christmas Day
+2016-12-25,254.24,Christmas Day
+2016-11-24,24.784,Thanksgiving Day
+2015-05-25,14.73,Memorial Day
+2017-12-25,95.94,Christmas Day
+2017-12-25,304.45,Christmas Day
+2015-11-26,14.73,Thanksgiving Day
+2015-11-26,104.9,Thanksgiving Day
+2015-11-26,61.04,Thanksgiving Day
+2015-11-26,10.95,Thanksgiving Day
+2015-10-12,209.67,Columbus Day
+2015-12-25,547.136,Christmas Day
+2017-12-25,158.928,Christmas Day
+2017-12-25,13.023,Christmas Day
+2017-12-25,273.06,Christmas Day
+2017-12-25,39.312,Christmas Day
+2017-09-04,1322.352,Labor Day
+2016-11-11,95.968,Veterans Day
+2016-11-11,47.992,Veterans Day
+2015-12-25,9.216,Christmas Day
+2015-12-25,10.368,Christmas Day
+2017-10-09,45.888,Columbus Day
+2014-05-26,225.296,Memorial Day
+2014-05-26,48.4,Memorial Day
+2017-11-11,10.368,Veterans Day
+2016-11-11,257.98,Veterans Day
+2015-09-07,47.516,Labor Day
+2017-11-11,10.89,Veterans Day
+2017-11-11,19.44,Veterans Day
+2017-11-11,121.6,Veterans Day
+2016-11-11,6.96,Veterans Day
+2015-10-12,135.72,Columbus Day
+2015-10-12,12.56,Columbus Day
+2015-10-12,263.96,Columbus Day
+2017-09-04,12.96,Labor Day
+2017-09-04,43.176,Labor Day
+2016-09-05,347.802,Labor Day
+2017-11-11,181.86,Veterans Day
+2014-09-01,3.648,Labor Day
+2014-09-01,31.104,Labor Day
+2017-11-10,931.176,Veterans Day (observed)
+2017-11-10,430.88,Veterans Day (observed)
+2017-02-20,6.56,Washington's Birthday
+2017-02-20,13.11,Washington's Birthday
+2017-11-10,341.96,Veterans Day (observed)
+2014-11-11,896.99,Veterans Day
+2014-11-11,1.234,Veterans Day
+2014-11-11,67.56,Veterans Day
+2014-11-11,21.72,Veterans Day
+2014-11-11,262.336,Veterans Day
+2014-11-11,148.48,Veterans Day
+2014-11-11,241.176,Veterans Day
+2016-12-26,89.97,Christmas Day (observed)
+2017-11-23,24.048,Thanksgiving Day
+2017-05-29,65.424,Memorial Day
+2017-09-04,825.174,Labor Day
+2017-09-04,17.76,Labor Day
+2017-09-04,6.912,Labor Day
+2016-09-05,116.0,Labor Day
+2016-11-24,657.552,Thanksgiving Day
+2017-11-23,7.476,Thanksgiving Day
+2017-09-04,8.256,Labor Day
+2017-09-04,25.56,Labor Day
+2017-09-04,4.368,Labor Day
+2017-09-04,11.52,Labor Day
+2016-09-05,9.555,Labor Day
+2017-09-04,487.984,Labor Day
+2017-09-04,5.56,Labor Day
+2017-09-04,217.85,Labor Day
+2017-05-29,23.55,Memorial Day
+2016-12-26,18.72,Christmas Day (observed)
+2017-10-09,12.816,Columbus Day
+2017-10-09,314.352,Columbus Day
+2017-10-09,18.98,Columbus Day
+2017-10-09,18.24,Columbus Day
+2016-09-05,23.472,Labor Day
+2016-09-05,86.058,Labor Day
+2016-09-05,108.784,Labor Day
+2016-09-05,10.272,Labor Day
+2016-11-24,659.9,Thanksgiving Day
+2016-11-24,1684.752,Thanksgiving Day
+2016-11-24,559.92,Thanksgiving Day
+2017-01-01,474.43,New Year's Day
+2015-09-07,13.96,Labor Day
+2015-09-07,27.414,Labor Day
+2015-12-25,73.98,Christmas Day
+2015-12-25,160.98,Christmas Day
+2015-12-25,17.34,Christmas Day
+2015-12-25,3.28,Christmas Day
+2016-11-24,1219.96,Thanksgiving Day
+2017-09-04,19.04,Labor Day
+2017-11-11,45.92,Veterans Day
+2015-11-26,692.472,Thanksgiving Day
+2016-11-24,207.76,Thanksgiving Day
+2017-09-04,54.32,Labor Day
+2016-12-26,11.328,Christmas Day (observed)
+2016-07-04,25.4,Independence Day
+2016-07-04,43.96,Independence Day
+2016-07-04,1279.165,Independence Day
+2016-07-04,27.92,Independence Day
+2017-02-20,9.432,Washington's Birthday
+2015-05-25,21.24,Memorial Day
+2015-05-25,127.96,Memorial Day
+2016-12-26,17.76,Christmas Day (observed)
+2016-12-26,302.384,Christmas Day (observed)
+2016-12-26,146.352,Christmas Day (observed)
+2016-12-26,7.9,Christmas Day (observed)
+2016-12-26,902.712,Christmas Day (observed)
+2016-12-26,53.97,Christmas Day (observed)
+2016-09-05,62.79,Labor Day
+2016-09-05,28.44,Labor Day
+2016-11-11,9.888,Veterans Day
+2016-11-11,671.544,Veterans Day
+2017-11-23,6.464,Thanksgiving Day
+2017-11-23,11.52,Thanksgiving Day
+2017-11-23,222.384,Thanksgiving Day
+2017-10-09,67.144,Columbus Day
+2017-10-09,254.058,Columbus Day
+2017-12-25,96.08,Christmas Day
+2017-12-25,3.62,Christmas Day
+2017-12-25,629.1,Christmas Day
+2017-12-25,90.48,Christmas Day
+2016-09-05,96.08,Labor Day
+2016-09-05,11.68,Labor Day
+2016-09-05,4.36,Labor Day
+2015-05-25,467.04,Memorial Day
+2015-09-07,9.522,Labor Day
+2015-09-07,791.964,Labor Day
+2015-09-07,4.923,Labor Day
+2016-12-26,212.94,Christmas Day (observed)
+2016-12-26,26.49,Christmas Day (observed)
+2017-11-11,18.24,Veterans Day
+2017-11-11,35.48,Veterans Day
+2016-12-26,4.992,Christmas Day (observed)
+2017-10-09,35.2,Columbus Day
+2017-01-16,27.92,Martin Luther King Jr. Day
+2017-01-16,399.672,Martin Luther King Jr. Day
+2016-05-30,2275.5,Memorial Day
+2016-05-30,1979.7,Memorial Day
+2016-05-30,62.1,Memorial Day
+2016-12-25,33.568,Christmas Day
+2016-09-05,25.92,Labor Day
+2016-09-05,15.808,Labor Day
+2016-09-05,10.368,Labor Day
+2017-11-10,26.352,Veterans Day (observed)
+2017-09-04,13.344,Labor Day
+2017-09-04,1478.272,Labor Day
+2016-05-30,123.92,Memorial Day
+2014-10-13,245.98,Columbus Day
+2014-10-13,18.94,Columbus Day
+2016-11-24,40.752,Thanksgiving Day
+2016-11-24,139.96,Thanksgiving Day
+2014-01-20,19.36,Martin Luther King Jr. Day
+2014-01-20,19.3,Martin Luther King Jr. Day
+2015-11-26,599.99,Thanksgiving Day
+2014-11-11,30.48,Veterans Day
+2014-11-11,112.648,Veterans Day
+2016-09-05,192.16,Labor Day
+2016-07-04,25.4,Independence Day
+2016-07-04,177.48,Independence Day
+2016-07-04,71.976,Independence Day
+2014-11-11,23.968,Veterans Day
+2014-11-11,521.96,Veterans Day
+2014-11-11,575.928,Veterans Day
+2014-11-11,7.78,Veterans Day
+2014-11-11,123.92,Veterans Day
+2015-12-25,414.96,Christmas Day
+2016-12-25,21.12,Christmas Day
+2015-12-25,1199.96,Christmas Day
+2015-12-25,12.6,Christmas Day
+2015-12-25,17.94,Christmas Day
+2017-12-25,153.552,Christmas Day
+2017-12-25,270.62,Christmas Day
+2016-11-24,25.35,Thanksgiving Day
+2017-05-29,43.41,Memorial Day
+2017-05-29,6.24,Memorial Day
+2017-05-29,465.16,Memorial Day
+2017-05-29,7.98,Memorial Day
+2017-11-23,195.96,Thanksgiving Day
+2014-10-13,7.752,Columbus Day
+2014-01-20,13.98,Martin Luther King Jr. Day
+2014-01-20,272.94,Martin Luther King Jr. Day
+2014-01-20,19.05,Martin Luther King Jr. Day
+2014-01-20,247.716,Martin Luther King Jr. Day
+2014-01-20,66.58,Martin Luther King Jr. Day
+2014-01-20,43.92,Martin Luther King Jr. Day
+2014-01-20,14.73,Martin Luther King Jr. Day
+2014-01-20,29.7,Martin Luther King Jr. Day
+2017-11-10,11.52,Veterans Day (observed)
+2017-01-16,5443.96,Martin Luther King Jr. Day
+2017-01-16,302.67,Martin Luther King Jr. Day
+2017-01-16,56.07,Martin Luther King Jr. Day
+2015-01-19,102.438,Martin Luther King Jr. Day
+2015-01-19,199.304,Martin Luther King Jr. Day
+2016-12-25,698.352,Christmas Day
+2016-12-25,1747.25,Christmas Day
+2017-02-20,333.576,Washington's Birthday
+2017-02-20,31.992,Washington's Birthday
+2017-02-20,51.168,Washington's Birthday
+2017-02-20,10.64,Washington's Birthday
+2017-02-20,68.704,Washington's Birthday
+2017-02-20,386.91,Washington's Birthday
+2017-01-01,3.6,New Year's Day
+2017-09-04,14.82,Labor Day
+2014-07-04,177.536,Independence Day
+2014-07-04,32.432,Independence Day
+2014-05-26,102.624,Memorial Day
+2014-05-26,359.772,Memorial Day
+2014-05-26,13.392,Memorial Day
+2015-02-16,35.88,Washington's Birthday
+2016-09-05,93.456,Labor Day
+2015-09-07,140.736,Labor Day
+2016-12-25,35.445,Christmas Day
+2016-12-25,269.97,Christmas Day
+2016-12-25,45.12,Christmas Day
+2016-12-25,100.8,Christmas Day
+2016-12-25,47.968,Christmas Day
+2017-12-25,3.856,Christmas Day
+2016-09-05,25.06,Labor Day
+2016-09-05,1652.94,Labor Day
+2015-09-07,559.93,Labor Day
+2017-11-10,7.8,Veterans Day (observed)
+2017-11-11,1158.12,Veterans Day
+2016-11-11,28.14,Veterans Day
+2016-11-11,36.0,Veterans Day
+2016-11-11,92.94,Veterans Day
+2016-11-11,245.646,Veterans Day
+2016-11-11,55.008,Veterans Day
+2016-11-11,35.232,Veterans Day
+2016-05-30,38.88,Memorial Day
+2016-09-05,9.248,Labor Day
+2017-09-04,421.1,Labor Day
+2014-01-20,67.194,Martin Luther King Jr. Day
+2015-12-25,275.88,Christmas Day
+2015-12-25,157.9,Christmas Day
+2014-07-04,21.84,Independence Day
+2014-07-04,15.6,Independence Day
+2016-05-30,364.74,Memorial Day
+2016-05-30,47.4,Memorial Day
+2016-05-30,49.76,Memorial Day
+2016-05-30,5.56,Memorial Day
+2016-05-30,629.1,Memorial Day
+2016-05-30,14.7,Memorial Day
+2016-05-30,45.36,Memorial Day
+2016-05-30,125.99,Memorial Day
+2016-10-10,20.608,Columbus Day
+2016-10-10,4.095,Columbus Day
+2017-09-04,97.184,Labor Day
+2017-09-04,10.368,Labor Day
+2017-11-10,400.8,Veterans Day (observed)
+2017-11-10,28.792,Veterans Day (observed)
+2015-12-25,843.9,Christmas Day
+2015-12-25,449.568,Christmas Day
+2017-11-10,111.79,Veterans Day (observed)
+2016-12-25,313.176,Christmas Day
+2016-12-25,866.646,Christmas Day
+2016-05-30,167.84,Memorial Day
+2017-11-11,88.92,Veterans Day
+2017-11-11,34.92,Veterans Day
+2016-09-05,8.952,Labor Day
+2016-09-05,8.856,Labor Day
+2016-09-05,85.246,Labor Day
+2016-09-05,21.204,Labor Day
+2016-09-05,58.248,Labor Day
+2016-09-05,71.246,Labor Day
+2016-09-05,7.872,Labor Day
+2016-09-05,887.271,Labor Day
+2015-12-25,9.96,Christmas Day
+2015-10-12,17.9,Columbus Day
+2015-10-12,81.96,Columbus Day
+2016-12-25,19.89,Christmas Day
+2016-12-25,399.98,Christmas Day
+2016-12-25,343.85,Christmas Day
+2016-12-25,106.32,Christmas Day
+2017-09-04,30.384,Labor Day
+2015-07-04,22.848,Independence Day
+2017-12-25,39.582,Christmas Day
+2017-12-25,44.688,Christmas Day
+2017-12-25,31.744,Christmas Day
+2017-12-25,40.98,Christmas Day
+2017-12-25,3.168,Christmas Day
+2016-10-10,90.882,Columbus Day
+2016-10-10,15.992,Columbus Day
+2016-10-10,120.784,Columbus Day
+2017-01-01,454.56,New Year's Day
+2017-01-01,141.42,New Year's Day
+2017-01-01,310.744,New Year's Day
+2017-01-01,12.736,New Year's Day
+2017-01-01,6.47,New Year's Day
+2017-01-01,13.748,New Year's Day
+2017-01-01,15.224,New Year's Day
+2016-11-11,41.96,Veterans Day
+2016-11-11,451.152,Veterans Day
+2016-11-11,31.504,Veterans Day
+2015-02-16,36.84,Washington's Birthday
+2015-02-16,87.71,Washington's Birthday
+2014-09-01,23.744,Labor Day
+2014-09-01,357.0,Labor Day
+2016-12-25,2563.056,Christmas Day
+2016-05-30,26.55,Memorial Day
+2016-05-30,111.98,Memorial Day
+2017-01-02,31.744,New Year's Day (observed)
+2017-01-02,5.432,New Year's Day (observed)
+2017-01-02,913.43,New Year's Day (observed)
+2017-01-02,372.144,New Year's Day (observed)
+2016-11-24,82.26,Thanksgiving Day
+2017-09-04,11.808,Labor Day
+2017-11-23,4.36,Thanksgiving Day
+2016-11-11,2678.94,Veterans Day
+2017-11-10,241.424,Veterans Day (observed)
+2015-09-07,70.26,Labor Day
+2015-09-07,90.0,Labor Day
+2015-09-07,6.096,Labor Day
+2015-09-07,481.176,Labor Day
+2015-09-07,7.24,Labor Day
+2017-11-23,10.688,Thanksgiving Day
+2017-12-25,21.0,Christmas Day
+2017-12-25,120.0,Christmas Day
+2017-11-23,36.288,Thanksgiving Day
+2017-11-23,78.304,Thanksgiving Day
+2017-11-23,127.785,Thanksgiving Day
+2017-11-23,6.104,Thanksgiving Day
+2017-11-11,35.184,Veterans Day
+2015-05-25,22.368,Memorial Day
+2015-05-25,32.368,Memorial Day
+2015-05-25,207.984,Memorial Day
+2014-10-13,36.4,Columbus Day
+2014-10-13,22.96,Columbus Day
+2014-10-13,315.2,Columbus Day
+2014-10-13,15.18,Columbus Day
+2017-09-04,88.074,Labor Day
+2016-09-05,43.6,Labor Day
+2017-11-11,25.5,Veterans Day
+2015-11-11,418.32,Veterans Day
+2015-11-11,123.858,Veterans Day
+2017-12-25,31.8,Christmas Day
+2016-11-11,14.112,Veterans Day
+2014-11-27,199.9,Thanksgiving Day
+2014-02-17,54.208,Washington's Birthday
+2014-11-11,22.98,Veterans Day
+2014-11-11,102.13,Veterans Day
+2014-11-11,2033.584,Veterans Day
+2017-01-02,16.59,New Year's Day (observed)
+2016-05-30,79.96,Memorial Day
+2016-05-30,223.96,Memorial Day
+2014-11-11,10.984,Veterans Day
+2014-11-11,797.944,Veterans Day
+2016-11-24,339.92,Thanksgiving Day
+2016-11-24,10.528,Thanksgiving Day
+2016-11-24,42.384,Thanksgiving Day
+2016-10-10,14.0,Columbus Day
+2016-10-10,16.392,Columbus Day
+2014-11-11,46.35,Veterans Day
+2014-11-11,223.92,Veterans Day
+2014-11-11,7.3,Veterans Day
